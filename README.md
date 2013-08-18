@@ -1,4 +1,4 @@
-serialize-event
+serializer
 ===============
 
-Serialize a DOM event to JSONML-based representation
+Serialize/Deserialize DOM nodes and events to JSON
